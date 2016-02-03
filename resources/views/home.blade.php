@@ -4,7 +4,7 @@
 
 <h3>Welcome to Chatty</h3>
 <p>The best social network, like ... ever.</p>
-<p>Nice, Thankas for using</p>
+
 
 
 @endsection
